@@ -1,4 +1,4 @@
-# From Scarcity to Scale: Generative Augmentation in Big Data Ecosystems
+# SAGA - Semantic Active Generative Augmentation
 
 > Semantic Active Generative Augmentation (SAGA)
 
