@@ -2,8 +2,6 @@
 
 > Semantic Active Generative Augmentation (SAGA)
 
-**Team:** Group 7 (Manav Ukani, Dhruv Shah, Param Patel, Neel Modi, Astha Soni)
-
 ## Project Overview
 
 This project introduces **Semantic Active Generative Augmentation (SAGA)**, a framework designed to address data scarcity in long-tail visual domains. While traditional augmentation (rotation, flipping) adds limited value, SAGA leverages **Generative AI** to synthesize targeted, realistic training data for underrepresented classes.
